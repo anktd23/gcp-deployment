@@ -10,8 +10,6 @@
 
 ## GCP Deployment
 
-#with specific access
-
 1. Login to gcp console.
 
 2. Download gcloud sdk :
